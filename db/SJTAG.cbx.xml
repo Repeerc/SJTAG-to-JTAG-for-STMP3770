@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="SJTAG">
+		<CBX_INST_ENTRY INSTANCE_NAME="|sjtag_top_mod|PLL:pll0|altpll:altpll_component" CBX_FILE_NAME="PLL_altpll1.v"/>
+	</PROJECT>
+</LOG_ROOT>

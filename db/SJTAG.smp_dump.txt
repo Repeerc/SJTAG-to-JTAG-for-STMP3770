@@ -1,0 +1,12 @@
+
+State Machine - |sjtag_top_mod|stageA
+Name stageA.00000111 stageA.00000110 stageA.00000101 stageA.00000100 stageA.00000011 stageA.00000010 stageA.00000001 stageA.00000000 stageA.00001000 
+stageA.00000000 0 0 0 0 0 0 0 0 0 
+stageA.00000001 0 0 0 0 0 0 1 1 0 
+stageA.00000010 0 0 0 0 0 1 0 1 0 
+stageA.00000011 0 0 0 0 1 0 0 1 0 
+stageA.00000100 0 0 0 1 0 0 0 1 0 
+stageA.00000101 0 0 1 0 0 0 0 1 0 
+stageA.00000110 0 1 0 0 0 0 0 1 0 
+stageA.00000111 1 0 0 0 0 0 0 1 0 
+stageA.00001000 0 0 0 0 0 0 0 1 1 
